@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/booluw" target="blank"><img src="https://img.shields.io/twitter/follow/booluw?logo=twitter&style=for-the-badge" alt="booluw" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [my portfolio site](https://portfolio-13670.web.app/)
+- 👨‍💻 All of my projects are available at [my portfolio site](https://booluw.vercel.app)
 
 - 📝 I regularly write articles on [Medium.com](https://medium.com/booluw)
 
-- 💬 Ask me about **VueJS, Firebase, CSS**
-
-- 📫 How to reach me **boluwatife.j.johnson@gmail.com**
+- 💬 Ask me about **VueJS, Supabase, Firebase, CSS, TailwindCSS**
 
 - 📄 [Check out my resume, I am fit for hire.](https://docs.google.com/document/d/1QwcjFuw6chztKCYIqZjjGfrNDJVNcfEsEfi9V0eySUM/edit?usp=sharing)
 
